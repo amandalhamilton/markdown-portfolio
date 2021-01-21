@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+ - Using a text editor
+ - Default formatting
+ - Dogs
