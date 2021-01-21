@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Demonstrated ability in Python, Javascript, SQL, and HTML/CSS**
+*Wants to learn everything I can to fuel my love of problem solving.*
