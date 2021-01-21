@@ -1,0 +1,3 @@
+ - Using a text editor
+ - Default formatting
+ - Dogs
